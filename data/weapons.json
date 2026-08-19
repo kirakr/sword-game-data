@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "ヒーローブレード",
-      "imageUrl": "https://kirakr.github.io/sword-game-data/sword_01.png",
+      "imageUrl": "https://kirakr.github.io/sword-game-data/hero.png",
       "attack": 10,
       "speed": 1.5,
       "maxFlips": 2
